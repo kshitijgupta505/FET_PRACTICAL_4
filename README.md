@@ -11,3 +11,8 @@ A small guessing game is to be developed which takes a random integer between 1 
 user is then prompted to input a guess number.
 If the user input matches with guess number, the program will display a message &quot;Good Work&quot;
 otherwise display a message &quot;Not matched&quot;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+<b>JAVA</b>
+<b>CSS</b>
+<b>HTML</b>
